@@ -6,7 +6,7 @@ import ScholarshipConcession from "./ScholarshipConcession.jsx";
 import RefundCancellation from "./RefundCancellation.jsx";
 import ManagementDashboard from "./ManagementDashboard.jsx";
 
-const API = "http://localhost:4000/api";
+const API = "http://college-erp-phase1.onrender.com/api";
 
 const menu = [
   ["MAIN", [["◉", "Dashboard"]]],
